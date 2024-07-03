@@ -1,6 +1,6 @@
-# css-basic-project
+# CSS Basic Project
 
-This was my first website using CSS
+This was my first webpage using CSS to style the HTML.
 
 How to see it?
 
