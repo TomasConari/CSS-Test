@@ -1,4 +1,4 @@
-# CSS Basic Project
+# CSS Test
 
 This was my first webpage using CSS to style the HTML.
 
